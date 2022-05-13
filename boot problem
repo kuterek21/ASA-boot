@@ -1,0 +1,5 @@
+log into the VNC
+cd coredumpinfo
+copy coredump.cfg disk0:/use_ttyS0
+reboot 
+log into telnet
